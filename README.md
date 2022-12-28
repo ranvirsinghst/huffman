@@ -1,8 +1,8 @@
-#### Huffman Coding:
+# Huffman Coding:
 
 ### Building Executables
 With the required files in your directory, execute the "make" command in your terminal.
-Once the command is done running, the ./encode and ./decode executabls will be available.
+Once the command is done running, the ./encode and ./decode executables will be available.
 
 ### Running Executables
 ./encode:

@@ -29,7 +29,7 @@ Once the command is done running, the ./encode and ./decode executables will be 
 - DESIGN.pdf: outlines design of my submission, and explains certain decisions
 - README.md: contains instructions for building and running program
 - Makefile: compiles code, removes derivative files, and formats code
-- code.c: contains impelment
+- code.c: contains implementation of the code (bit stack) ADT
 - code.h: header file for code.c
 - defines.h: contains macro definitions utilized throughout other files
 - header.h: contains the struct definition for a file header
@@ -43,3 +43,5 @@ Once the command is done running, the ./encode and ./decode executables will be 
 - pq.h: header file for pq.c
 - stack.c: contains implementation of the stack ADT
 - stack.h: header file for stack.c
+
+I did not write any of the header files in this repository, or the help messages outputted by running either executable with the -h flag. Credit for the header files and help messages goes to the writers of the Fall 2022 CSE13S curriculum at UC Santa Cruz.
